@@ -1,0 +1,17 @@
+Package: erickhelp
+Title: Functions for AI in drug development
+Version: 0.0.1
+Authors@R: 
+    person("Erick", "Arroyo Perez", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package provides the following functions: __ __ __. They do this and that
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports:
+    tibble
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

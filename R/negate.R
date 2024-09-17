@@ -1,0 +1,2 @@
+#' @title
+`%!in%` <- Negate(`%in%`)
